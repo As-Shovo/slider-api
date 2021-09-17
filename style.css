@@ -1,0 +1,12 @@
+
+/* .show-img img{
+    max-width: 300px;
+} */
+
+.img-thumbnail {
+    cursor: pointer;
+  }
+
+.selected{
+    border: 2px solid rgb(86, 241, 252); 
+}
